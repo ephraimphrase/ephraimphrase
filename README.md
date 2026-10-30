@@ -64,7 +64,6 @@ Notice the pattern: the **Surge** family answers small daily questions, and `wor
 |---|---|
 | **Habitat** | Terminals, Docker containers, and the occasional 4 AM debugging session |
 | **Current role** | Lead Backend Engineer at **Triber** |
-| **Also studying** | MSc Computer Science, Elizade University |
 | **Origin** | Nigeria 🇳🇬 |
 | **Synonyms** | backend lead · full-stack builder · AI integrator · tinkerer |
 | **Antonyms** | "works on my machine" |
